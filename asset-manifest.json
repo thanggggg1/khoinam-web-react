@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/khoinam-web-react/static/css/main.7a238646.css",
-    "main.js": "/khoinam-web-react/static/js/main.0b192779.js",
+    "main.js": "/khoinam-web-react/static/js/main.a93fe1f9.js",
     "static/js/196.ce43ecb5.chunk.js": "/khoinam-web-react/static/js/196.ce43ecb5.chunk.js",
     "static/js/758.095ad352.chunk.js": "/khoinam-web-react/static/js/758.095ad352.chunk.js",
     "static/js/500.b4142857.chunk.js": "/khoinam-web-react/static/js/500.b4142857.chunk.js",
@@ -28,7 +28,7 @@
     "static/js/814.45722086.chunk.js": "/khoinam-web-react/static/js/814.45722086.chunk.js",
     "static/js/256.cf75c3a9.chunk.js": "/khoinam-web-react/static/js/256.cf75c3a9.chunk.js",
     "static/js/87.7f919024.chunk.js": "/khoinam-web-react/static/js/87.7f919024.chunk.js",
-    "static/js/176.764e4960.chunk.js": "/khoinam-web-react/static/js/176.764e4960.chunk.js",
+    "static/js/176.ab825750.chunk.js": "/khoinam-web-react/static/js/176.ab825750.chunk.js",
     "static/media/cap-cao-su-1.png": "/khoinam-web-react/static/media/cap-cao-su-1.e3971c38f5999d6cd9ac.png",
     "static/media/cap-cao-su.png": "/khoinam-web-react/static/media/cap-cao-su.e3971c38f5999d6cd9ac.png",
     "static/media/cap-chong-chay-price.jpeg": "/khoinam-web-react/static/media/cap-chong-chay-price.41c3c24c56df28f6baca.jpeg",
@@ -85,7 +85,7 @@
     "static/media/Flaticon.woff": "/khoinam-web-react/static/media/Flaticon.3b6441086edd7f5f81cb.woff",
     "index.html": "/khoinam-web-react/index.html",
     "main.7a238646.css.map": "/khoinam-web-react/static/css/main.7a238646.css.map",
-    "main.0b192779.js.map": "/khoinam-web-react/static/js/main.0b192779.js.map",
+    "main.a93fe1f9.js.map": "/khoinam-web-react/static/js/main.a93fe1f9.js.map",
     "196.ce43ecb5.chunk.js.map": "/khoinam-web-react/static/js/196.ce43ecb5.chunk.js.map",
     "758.095ad352.chunk.js.map": "/khoinam-web-react/static/js/758.095ad352.chunk.js.map",
     "500.b4142857.chunk.js.map": "/khoinam-web-react/static/js/500.b4142857.chunk.js.map",
@@ -112,10 +112,10 @@
     "814.45722086.chunk.js.map": "/khoinam-web-react/static/js/814.45722086.chunk.js.map",
     "256.cf75c3a9.chunk.js.map": "/khoinam-web-react/static/js/256.cf75c3a9.chunk.js.map",
     "87.7f919024.chunk.js.map": "/khoinam-web-react/static/js/87.7f919024.chunk.js.map",
-    "176.764e4960.chunk.js.map": "/khoinam-web-react/static/js/176.764e4960.chunk.js.map"
+    "176.ab825750.chunk.js.map": "/khoinam-web-react/static/js/176.ab825750.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a238646.css",
-    "static/js/main.0b192779.js"
+    "static/js/main.a93fe1f9.js"
   ]
 }
