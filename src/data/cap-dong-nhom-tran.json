@@ -1,0 +1,102 @@
+[
+  {
+    "id": 6,
+    "name": "CÁP ĐỒNG TRẦN - C",
+    "category": "cap-dong-nhom-tran",
+    "pageLink": "service-details-left-sidebar",
+    "iconClass": "flaticon-002-welding",
+    "serviceSubtitle":
+    "TCVN 5064: 1994 & TCVN 5064:1994/ SĐ1:1995",
+    "description": "<div class=\"jScrollPanel\"><strong>Tiêu chuẩn áp dụng</strong><br>TCVN 5064: 1994 &amp; TCVN 5064:1994/ SĐ1:1995<br><strong>Tổng quan</strong><br>- Quy cách: Cu<br>- Ruột dẫn: Đồng<br>- Số lõi: 1<br>- Kiểu ruột dẫn: Sợi đồng bện tròn cấp 2.<br>- Mặt cắt danh định: Từ 4 mm<sup>2</sup> đến 400 mm<sup>2</sup><br>- Dạng mẫu mã: Hình tròn<br>- Đóng gói: Ru lô, cuộn.<br>- Ứng dụng: Dùng để truyền tải điện năng, tần số công nghiệp, lắp đặt trên không.<br>* Ghi chú:&nbsp;Ngoài các quy cách nêu trên, CADI-SUN có thể đáp ứng các yêu cầu khác của khách hàng.&nbsp;</div>",
+    "images": [
+      "cap-nhom-tran.png",
+      "cap-nhom-tran-1.png"
+    ],
+    "images_descriptions": [
+      "cap-nhom-tran-des.jpeg"
+    ],
+    "images_prices": [
+      "cap-nhom-tran-des-1.jpeg"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "CÁP NHÔM TRẦN - A",
+    "category": "cap-dong-nhom-tran",
+    "pageLink": "service-details-left-sidebar",
+    "iconClass": "flaticon-002-welding",
+    "serviceSubtitle":
+    "TCVN 5064: 1994 & TCVN 5064:1994/ SĐ1:1995",
+    "description": "<div><strong>Tiêu chuẩn áp dụng</strong><br>TCVN 5064: 1994 &amp; TCVN 5064:1994/ SĐ1:1995<br><strong>Tổng quan</strong><br>- Quy cách: Al<br>- Ruột dẫn: Nhôm<br>- Số lõi: 1<br>- Kiểu ruột dẫn: Sợi nhôm bện tròn cấp 2.<br>- Mặt cắt danh định: Từ 16 mm<sup>2</sup> đến 400 mm<sup>2</sup><br>- Dạng mẫu mã: Hình tròn<br>- Đóng gói: Ru lô, cuộn.<br>- Ứng dụng: Dùng để truyền tải điện năng, tần số công nghiệp lắp đặt trên không.<br>* Ghi chú:&nbsp;Ngoài các quy cách nêu trên, CADI-SUN có thể đáp ứng các yêu cầu khác của khách hàng.&nbsp;</div>",
+    "images": [
+      "cap-nhom-tran.png",
+      "cap-nhom-tran-1.png"
+    ],
+    "images_descriptions": [
+      "cap-nhom-tran-des.jpeg"
+    ],
+    "images_prices": [
+      "cap-nhom-tran-des-1.jpeg"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "CÁP THÉP TRẦN - TK",
+    "category": "cap-dong-nhom-tran",
+    "pageLink": "service-details-left-sidebar",
+    "iconClass": "flaticon-002-welding",
+    "serviceSubtitle":
+    "TCVN 5064: 1994 & TCVN 5064:1994/ SĐ1:1995",
+    "description": "<div class=\"jScrollPanel\"><strong>Tiêu chuẩn áp dụng</strong><br>TCVN 6483/ IEC 1089<br><strong>Tổng quan</strong><br>- Quy cách: Thép mạ kẽm<br>- Số lõi: 1<br>- Kiểu ruột dẫn: Sợi thép mạ kẽm bện tròn cấp 2.<br>- Mặt cắt danh định: Từ 25 mm<sup>2</sup> đến 95 mm<sup>2</sup><br>- Dạng mẫu mã: Hình tròn<br>- Đóng gói: Ru lô, cuộn.<br>- Ứng dụng:Dùng làm dây chống sét cho đường dây tải điện trên không, các trạm biến áp, các tháp ăn ten...<br>Ghi chú:&nbsp;Ngoài các quy cách nêu trên, CADI-SUN có thể đáp ứng các yêu cầu khác của khách hàng.&nbsp;</div>",
+    "images": [
+      "cap-nhom-tran.png",
+      "cap-nhom-tran-1.png"
+    ],
+    "images_descriptions": [
+      "cap-nhom-tran-des.jpeg"
+    ],
+    "images_prices": [
+      "cap-nhom-tran-des-1.jpeg"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "CÁP NHÔM TRẦN LÕI THÉP - AS/AC/ACSR",
+    "category": "cap-dong-nhom-tran",
+    "pageLink": "service-details-left-sidebar",
+    "iconClass": "flaticon-002-welding",
+    "serviceSubtitle":
+    "TCVN 5064: 1994 & TCVN 5064:1994/ SĐ1:1995",
+    "description": "<div><strong>Tiêu chuẩn áp dụng</strong><br>TCVN 6483 (IEC 1089)<br><strong>Tổng quan</strong><br>- Quy cách: Fe/Al&nbsp;<br>- Ruột dẫn: Nhôm và thép mạ kẽm<br>- Số lõi: 1<br>- Kiểu ruột dẫn: Bện tròn cấp 2.<br>- Mặt cắt danh định của Nhôm: Từ 10 mm<sup>2</sup> đến 800 mm<sup>2</sup><br>- Mặt cắt danh định của Thép: Từ 1.8 mm<sup>2</sup> đến 102 mm<sup>2</sup><br>- Có mỡ và không có mỡ trung tính (với ký hiệu tương ứng As và AsKP)<br>- Dạng mẫu mã: Hình tròn<br>- Đóng gói: Rulô hoặc cuộn.<br>- Ứng dụng: Dùng để truyền tải điện năng, tần số công nghiệp, lắp đặt trên không.<br>* Ghi chú:<br>&nbsp;Các ký hiệu tương đương:<br>- As, AC, ACSR<br>- AsKP, ACKP<br>- Ngoài các quy cách nêu trên, CADI-SUN có thể đáp ứng các yêu cầu khác của khách hàng.&nbsp;</div>",
+    "images": [
+      "cap-nhom-tran.png",
+      "cap-nhom-tran-1.png"
+    ],
+    "images_descriptions": [
+      "cap-nhom-tran-des.jpeg"
+    ],
+    "images_prices": [
+      "cap-nhom-tran-des-1.jpeg"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "CÁP NHÔM TRẦN LÕI THÉP BÔI MỠ TRUNG TÍNH - ASKP/ACKP",
+    "category": "cap-dong-nhom-tran",
+    "pageLink": "service-details-left-sidebar",
+    "iconClass": "flaticon-002-welding",
+    "serviceSubtitle":
+    "TCVN 5064: 1994 & TCVN 5064:1994/ SĐ1:1995",
+    "description": "<div><strong>Tiêu chuẩn áp dụng</strong><br>TCVN 5064: 1994 &amp; TCVN 5064:1994/ SĐ1:1995<br><strong>Tổng quan</strong><br>- Quy cách: Fe/Al&nbsp;<br>- Ruột dẫn: Nhôm và thép mạ kẽm<br>- Số lõi: 1<br>- Kiểu ruột dẫn: Bện tròn cấp 2.<br>- Mặt cắt danh định của Nhôm: Từ 10 mm<sup>2</sup> đến 400 mm<sup>2</sup><br>- Mặt cắt danh địnhcủa Thép: Từ 1.8 mm<sup>2</sup> đến 204 mm<sup>2</sup><br>- Có mỡ và không có mỡ trung tính (với ký hiệu tương ứng As và AsKP)<br>- Dạng mẫu mã: Hình tròn<br>- Đóng gói: Rulô hoặc cuộn.<br>Ứng dụng: Dùng để truyền tải điện năng, tần số công nghiệp, lắp đặt trên không.<br>* Ghi chú:<br>&nbsp;Các ký hiệu tương đương:<br>- As, AC, ACSR<br>- AsKP, ACKP<br>- Ngoài các quy cách nêu trên, CADI-SUN có thể đáp ứng các yêu cầu khác của khách hàng.&nbsp;</div>",
+    "images": [
+      "cap-nhom-tran.png",
+      "cap-nhom-tran-1.png"
+    ],
+    "images_descriptions": [
+      "cap-nhom-tran-des.jpeg"
+    ],
+    "images_prices": [
+      "cap-nhom-tran-des-1.jpeg"
+    ]
+  }
+]

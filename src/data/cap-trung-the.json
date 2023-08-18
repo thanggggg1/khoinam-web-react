@@ -1,0 +1,122 @@
+[
+  {
+    "id": 0,
+    "name": "Cáp 3 lõi, màn chắn băng đồng, giáp sợi thép - SWA(ASWA)/CTS-W 3x? - 3.6/6 (7.2)kV",
+    "category": "cap-trung-the",
+    "pageLink": "service-details-left-sidebar",
+    "iconClass": "flaticon-002-welding",
+    "description": "<p><strong>Tiêu chuẩn áp dụng</strong><br>TCVN 5935-2 / IEC 60502-2 và TCCS 17:2021/EVN<br><strong>Tổng quan</strong><br>- Ruột dẫn: Nhôm hoặc đồng<br>- Số lõi: 1, 3 và 4<br>- Kiểu ruột dẫn: Bện tròn nén chặt cấp 2.<br>- Mặt cắt danh định:&nbsp; Từ 10 mm<sup>2</sup> đến 1000 mm<sup>2</sup><br>- Điện áp danh định: 3.6/6(7.2) kV đến 20/35 (40.5) kV<br>- Nhiệt độ làm việc của ruột dẫn: 90 <sup>o</sup>C<br>- Vật liệu: cách điện XLPE vỏ bọc PVC, Fr-PVC hoặc HDPE<br>- Màn chắn kim loại là băng đồng CTS (CT), sợi đồng CWS&nbsp; hoặc kết hợp cả 2<br>- Lớp giáp bảo vệ: Có giáp hoặc không có giáp<br>- Dạng mẫu mã: Hình tròn.<br>- Đóng gói: Ru lô hoặc cuộn<br>- Tính năng đặc biệt (tùy chọn): Chống thấm dọc, ngang, chậm cháy<br>- Ứng dụng: Dùng để truyền tải điện năngcho lưới điện trung thế, tần số công nghiệp, lắp đặt trên không, đi trong thang, máng, lắp đặt ngầm trực tiếp trong đất hoặc trong ống.<br>* Ghi chú:&nbsp;Ngoài các quy cách nêu trên, CADI-SUN có thể đáp ứng các yêu cầu khác của khách hàng.&nbsp;</p>",
+    "images": [
+      "cap-trung-the.png",
+      "cap-trung-the-1.png"
+    ],
+    "serviceSubtitle":
+    "TCVN 5935-2 / IEC 60502-2 và TCCS 17:2021/EVN",
+    "images_descriptions": [
+      "flone/src/data/images/example.png"
+    ],
+    "images_prices": [
+      "flone/src/data/images/price-example.jpg"
+    ]
+  },
+  {
+    "id": 1,
+    "name": "CÁP 3 LÕI, MÀN CHẮN BĂNG ĐỒNG, GIÁP BĂNG THÉP - DSTA(ADSTA)/CTS-W 3X? - 3.6/6 (7.2)KV",
+    "category": "cap-trung-the",
+    "pageLink": "service-details-left-sidebar",
+    "iconClass": "flaticon-002-welding",
+    "serviceSubtitle":
+    "TCVN 5935-2 / IEC 60502-2 và TCCS 17:2021/EVN",
+    "description": "<p><strong>Tiêu chuẩn áp dụng</strong><br>TCVN 5935-2 / IEC 60502-2 và TCCS 17:2021/EVN<br><strong>Tổng quan</strong><br>- Ruột dẫn: Nhôm hoặc đồng<br>- Số lõi: 1, 3 và 4<br>- Kiểu ruột dẫn: Bện tròn nén chặt cấp 2.<br>- Mặt cắt danh định:&nbsp; Từ 10 mm<sup>2</sup> đến 1000 mm<sup>2</sup><br>- Điện áp danh định: 3.6/6(7.2) kV đến 20/35 (40.5) kV<br>- Nhiệt độ làm việc của ruột dẫn: 90 <sup>o</sup>C<br>- Vật liệu: cách điện XLPE vỏ bọc PVC, Fr-PVC hoặc HDPE<br>- Màn chắn kim loại là băng đồng CTS (CT), sợi đồng CWS&nbsp; hoặc kết hợp cả 2<br>- Lớp giáp bảo vệ: Có giáp hoặc không có giáp<br>- Dạng mẫu mã: Hình tròn.<br>- Đóng gói: Ru lô hoặc cuộn<br>- Tính năng đặc biệt (tùy chọn): Chống thấm dọc, ngang, chậm cháy<br>- Ứng dụng: Dùng để truyền tải điện năng cho lưới điện trung thế, tần số công nghiệp, lắp đặt trên không, đi trong thang, máng, lắp đặt ngầm trực tiếp trong đất hoặc trong ống.<br>* Ghi chú:&nbsp;Ngoài các quy cách nêu trên, CADI-SUN có thể đáp ứng các yêu cầu khác của khách hàng.&nbsp;</p>",
+    "images": [
+      "cap-trung-the.png",
+      "cap-trung-the-1.png"
+    ],
+    "images_descriptions": [
+      "flone/src/data/images/example.png"
+    ],
+    "images_prices": [
+      "flone/src/data/images/price-example.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "CÁP 3 LÕI, MÀN CHẮN BĂNG ĐỒNG, KHÔNG GIÁP - CXV(AXV)/CTS-W 3X? - 3.6/6 (7.2)KV",
+    "category": "cap-trung-the",
+    "pageLink": "service-details-left-sidebar",
+    "iconClass": "flaticon-002-welding",
+    "serviceSubtitle":
+    "TCVN 5935-2 / IEC 60502-2 và TCCS 17:2021/EVN",
+    "description": "<p><strong>Tiêu chuẩn áp dụng</strong><br>TCVN 5935-2 / IEC 60502-2 và TCCS 17:2021/EVN<br><strong>Tổng quan</strong><br>- Ruột dẫn: Nhôm hoặc đồng<br>- Số lõi: 1, 3 và 4<br>- Kiểu ruột dẫn: Bện tròn nén chặt cấp 2.<br>- Mặt cắt danh định:&nbsp; Từ 10 mm<sup>2</sup> đến 1000 mm<sup>2</sup><br>- Điện áp danh định: 3.6/6(7.2) kV đến 20/35 (40.5) kV<br>- Nhiệt độ làm việc của ruột dẫn: 90 <sup>o</sup>C<br>- Vật liệu: cách điện XLPE vỏ bọc PVC, Fr-PVC hoặc HDPE<br>- Màn chắn kim loại là băng đồng CTS (CT), sợi đồng CWS&nbsp; hoặc kết hợp cả 2<br>- Lớp giáp bảo vệ: Có giáp hoặc không có giáp<br>- Dạng mẫu mã: Hình tròn.<br>- Đóng gói: Ru lô hoặc cuộn<br>- Tính năng đặc biệt (tùy chọn): Chống thấm dọc, ngang, chậm cháy<br>- Ứng dụng: Dùng để truyền tải điện năng cho lưới điện trung thế, tần số công nghiệp, lắp đặt trên không, đi trong thang, máng, lắp đặt ngầm trực tiếp trong đất hoặc trong ống.<br>* Ghi chú:&nbsp;Ngoài các quy cách nêu trên, CADI-SUN có thể đáp ứng các yêu cầu khác của khách hàng.&nbsp;</p>",
+    "images": [
+      "cap-trung-the.png",
+      "cap-trung-the-1.png"
+    ],
+    "images_descriptions": [
+      "flone/src/data/images/example.png"
+    ],
+    "images_prices": [
+      "flone/src/data/images/price-example.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "CÁP 1 LÕI, MÀN CHẮN SỢI ĐỒNG, GIÁP BĂNG NHÔM - DATA(ADATA)/CWS-W 1X? - 3.6/6 (7.2)KV",
+    "category": "cap-trung-the",
+    "pageLink": "service-details-left-sidebar",
+    "iconClass": "flaticon-002-welding",
+    "serviceSubtitle":
+    "TCVN 5935-2 / IEC 60502-2 và TCCS 17:2021/EVN",
+    "description": "<p><strong>Tiêu chuẩn áp dụng</strong><br>TCVN 5935-2 / IEC 60502-2 và TCCS 17:2021/EVN<br><strong>Tổng quan</strong><br>- Ruột dẫn: Nhôm hoặc đồng<br>- Số lõi: 1, 3 và 4<br>- Kiểu ruột dẫn: Bện tròn nén chặt cấp 2.<br>- Mặt cắt danh định:&nbsp; Từ 10 mm<sup>2</sup> đến 1000 mm<sup>2</sup><br>- Điện áp danh định: 3.6/6(7.2) kV đến 20/35 (40.5) kV<br>- Nhiệt độ làm việc của ruột dẫn: 90 <sup>o</sup>C<br>- Vật liệu: cách điện XLPE vỏ bọc PVC, Fr-PVC hoặc HDPE<br>- Màn chắn kim loại là băng đồng CTS (CT), sợi đồng CWS&nbsp; hoặc kết hợp cả 2<br>- Lớp giáp bảo vệ: Có giáp hoặc không có giáp<br>- Dạng mẫu mã: Hình tròn.<br>- Đóng gói: Ru lô hoặc cuộn<br>- Tính năng đặc biệt (tùy chọn): Ch��ng thấm dọc, ngang, chậm cháy<br>- Ứng dụng: Dùng để truyền tải điện năng cho lưới điện trung thế, tần số công nghiệp, lắp đặt trên không, đi trong thang, máng, lắp đặt ngầm trực tiếp trong đất hoặc trong ống.<br>* Ghi chú:&nbsp;Ngoài các quy cách nêu trên, CADI-SUN có thể đáp ứng các yêu cầu khác của khách hàng.&nbsp;</p>",
+    "images": [
+      "cap-trung-the.png",
+      "cap-trung-the-1.png"
+    ],
+    "images_descriptions": [
+      "flone/src/data/images/example.png"
+    ],
+    "images_prices": [
+      "flone/src/data/images/price-example.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "CÁP 1 LÕI, MÀN CHẮN BĂNG ĐỒNG, GIÁP SỢI NHÔM - AWA(AAWA)/CTS-W 1X? - 3.6/6 (7.2)KV",
+    "category": "cap-trung-the",
+    "pageLink": "service-details-left-sidebar",
+    "iconClass": "flaticon-002-welding",
+    "serviceSubtitle":
+    "TCVN 5935-2 / IEC 60502-2 và TCCS 17:2021/EVN",
+    "description": "<p><strong>Tiêu chuẩn áp dụng</strong><br>TCVN 5935-2 / IEC 60502-2 và TCCS 17:2021/EVN<br><strong>Tổng quan</strong><br>- Ruột dẫn: Nhôm hoặc đồng<br>- Số lõi: 1, 3 và 4<br>- Kiểu ruột dẫn: Bện tròn nén chặt cấp 2.<br>- Mặt cắt danh định:&nbsp; Từ 10 mm<sup>2</sup> đến 1000 mm<sup>2</sup><br>- Điện áp danh định: 3.6/6(7.2) kV đến 20/35 (40.5) kV<br>- Nhiệt độ làm việc của ruột dẫn: 90 <sup>o</sup>C<br>- Vật liệu: cách điện XLPE vỏ bọc PVC, Fr-PVC hoặc HDPE<br>- Màn chắn kim loại là băng đồng CTS (CT), sợi đồng CWS&nbsp; hoặc kết hợp cả 2<br>- Lớp giáp bảo vệ: Có giáp hoặc không có giáp<br>- Dạng mẫu mã: Hình tròn.<br>- Đóng gói: Ru lô hoặc cuộn<br>- Tính năng đặc biệt (tùy chọn): Chống thấm dọc, ngang, chậm cháy<br>- Ứng dụng: Dùng để truyền tải điện năng cho lưới điện trung thế, tần số công nghiệp, lắp đặt trên không, đi trong thang, máng, lắp đặt ngầm trực tiếp trong đất hoặc trong ống.<br>* Ghi chú:&nbsp;Ngoài các quy cách nêu trên, CADI-SUN có thể đáp ứng các yêu cầu khác của khách hàng.&nbsp;</p>",
+    "images": [
+      "cap-trung-the.png",
+      "cap-trung-the-1.png"
+    ],
+    "images_descriptions": [
+      "flone/src/data/images/example.png"
+    ],
+    "images_prices": [
+      "flone/src/data/images/price-example.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "CÁP 1 LÕI, MÀN CHẮN BĂNG ĐỒNG, GIÁP BĂNG NHÔM - DATA(ADATA)/CTS-W 1X? - 3.6/6 (7.2)KV",
+    "category": "cap-trung-the",
+    "pageLink": "service-details-left-sidebar",
+    "iconClass": "flaticon-002-welding",
+    "serviceSubtitle":
+    "TCVN 5935-2 / IEC 60502-2 và TCCS 17:2021/EVN",
+    "description": "<p><strong>Tiêu chuẩn áp dụng</strong><br>TCVN 5935-2 / IEC 60502-2 và TCCS 17:2021/EVN<br><strong>Tổng quan</strong><br>- Ruột dẫn: Nhôm hoặc đồng<br>- Số lõi: 1, 3 và 4<br>- Kiểu ruột dẫn: Bện tròn nén chặt cấp 2.<br>- Mặt cắt danh định:&nbsp; Từ 10 mm<sup>2</sup> đến 1000 mm<sup>2</sup><br>- Điện áp danh định: 3.6/6(7.2) kV đến 20/35 (40.5) kV<br>- Nhiệt độ làm việc của ruột dẫn: 90 <sup>o</sup>C<br>- Vật liệu: cách điện XLPE vỏ bọc PVC, Fr-PVC hoặc HDPE<br>- Màn chắn kim loại là băng đồng CTS (CT), sợi đồng CWS&nbsp; hoặc kết hợp cả 2<br>- Lớp giáp bảo vệ: Có giáp hoặc không có giáp<br>- Dạng mẫu mã: Hình tròn.<br>- Đóng gói: Ru lô hoặc cuộn<br>- Tính năng đặc biệt (tùy chọn): Chống thấm dọc, ngang, chậm cháy<br>- Ứng dụng: Dùng để truyền tải điện năng cho lưới điện trung thế, tần số công nghiệp, lắp đặt trên không, đi trong thang, máng, lắp đặt ngầm trực tiếp trong đất hoặc trong ống.<br>* Ghi chú:&nbsp;Ngoài các quy cách nêu trên, CADI-SUN có thể đáp ứng các yêu cầu khác của khách hàng.&nbsp;</p>",
+    "images": [
+      "cap-trung-the.png",
+      "cap-trung-the-1.png"
+    ],
+    "images_descriptions": [
+      "flone/src/data/images/example.png"
+    ],
+    "images_prices": [
+      "flone/src/data/images/price-example.jpg"
+    ]
+  }
+]

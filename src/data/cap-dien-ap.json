@@ -1,0 +1,42 @@
+[
+  {
+    "id": 19,
+    "name": "CÁP ĐIỀU KHIỂN KHÔNG LƯỚI - DVV",
+    "category": "cap-dien-ap",
+    "pageLink": "service-details-left-sidebar",
+    "iconClass": "flaticon-002-welding",
+    "serviceSubtitle":
+    "TCVN 6610-7 (IEC 60227-7)",
+    "description": "<div class=\"jScrollPanel\"><strong>Tiêu chuẩn áp dụng</strong><br>TCVN 6610-7 (IEC 60227-7)<br><strong>Tổng quan</strong><br>- Quy cách: Cu/PVC/PVC<br>- Ruột dẫn: Đồng ủ mềm<br>- Số lõi: Từ 2 đến 60<br>- Kết cấu ruột dẫn: Bện xoắn nhiều sợi cấp 5<br>- Mặt cắt danh định: từ 0.5 mm<sup>2</sup>&nbsp;đến 2.5 mm<sup>2</sup><br>- Điện áp danh định: 300/500 V<br>- Nhiệt độ làm việc ruột dẫn: 70 °C<br>- Đóng gói: Ru lô, cuộn<br>- Ứng dụng: Truyền tín hiệu điều khiển điện, giữa bộ phận điều khiển, bộ phận trung gian, bộ phận chấp hành.<br>* Ghi chú:&nbsp;Ngoài các quy cách nêu trên, CADI-SUN có thể đáp ứng các yêu cầu khác của khách hàng.&nbsp;</div>",
+    "images": [
+      "cap-dien-ap.png",
+      "cap-dien-ap-1.png"
+    ],
+    "images_descriptions": [
+      "cap-dien-ap-des.jpeg"
+    ],
+    "images_prices": [
+      "cap-dien-ap-price.jpeg"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "CÁP ĐIỀU KHIỂN KHÔNG LƯỚI - DVV",
+    "category": "cap-dien-ap",
+    "pageLink": "service-details-left-sidebar",
+    "iconClass": "flaticon-002-welding",
+    "serviceSubtitle":
+    "TCVN 6610-7 (IEC 60227-7)",
+    "description": "<div class=\"jScrollPanel\"><strong>Tiêu chuẩn áp dụng</strong><br>TCVN 6610-7 (IEC 60227-7)<br><strong>Tổng quan</strong><br>- Quy cách: Cu/PVC/PVC<br>- Ruột dẫn: Đồng ủ mềm<br>- Số lõi: Từ 2 đến 60<br>- Kết cấu ruột dẫn: Bện xoắn nhiều sợi cấp 5<br>- Mặt cắt danh định: từ 0.5 mm<sup>2</sup>&nbsp;đến 2.5 mm<sup>2</sup><br>- Điện áp danh định: 300/500 V<br>- Nhiệt độ làm việc ruột dẫn: 70 °C<br>- Đóng gói: Ru lô, cuộn<br>- Ứng dụng: Truyền tín hiệu điều khiển điện, giữa bộ phận điều khiển, bộ phận trung gian, bộ phận chấp hành.<br>* Ghi chú:&nbsp;Ngoài các quy cách nêu trên, CADI-SUN có thể đáp ứng các yêu cầu khác của khách hàng.&nbsp;</div>",
+    "images": [
+      "cap-dien-ap.png",
+      "cap-dien-ap-1.png"
+    ],
+    "images_descriptions": [
+      "cap-dien-ap-des.jpeg"
+    ],
+    "images_prices": [
+      "cap-dien-ap-price.jpeg"
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 16,
+    "name": "CÁP NHÔM BỆN ÉP VẶN XOẮN - ABC 2X",
+    "category": "cap-van-xoan",
+    "pageLink": "service-details-left-sidebar",
+    "iconClass": "flaticon-002-welding",
+    "serviceSubtitle":
+    "TCVN 6447, AS/NZS 3506",
+    "description": "<div class=\"jScrollPanel\"><strong>Tiêu chuẩn áp dụng</strong><br>TCVN 6447, AS/NZS 3506<br><strong>Tổng quan</strong><br>- Quy cách: Al/XLPE<br>- Ruột dẫn: Nhôm<br>- Số lõi: 2<br>- Kiểu ruột dẫn: Bện tròn ép chặt cấp 2.<br>- Mặt cắt danh định của ruột dẫn: từ 10 mm<sup>2</sup> đến 400 mm<sup>2</sup><br>- Điện áp danh định: 0.6/1 kV<br>- Nhiệt độ làm việc của ruột dẫn: 90 <sup>o</sup>C<br>- Đóng gói: Ru lô hoặc cuộn<br>- Ứng dụng: Dùng cho đường trục hạ thế, truyền tải điện năng cho hệ thống phân phối điện.<br>* Ghi chú:&nbsp;Ngoài các quy cách nêu trên, CADI-SUN có thể đáp ứng các yêu cầu khác của khách hàng.&nbsp;</div>",
+    "images": [
+      "cap-van-xoan.png",
+      "cap-van-xoan-1.png"
+    ],
+    "images_descriptions": [
+      "cap-van-xoan-des.jpeg"
+    ],
+    "images_prices": [
+      "cap-van-xoan-price.jpeg"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "CÁP NHÔM BỆN ÉP VẶN XOẮN - ABC 3X\n",
+    "category": "cap-van-xoan",
+    "pageLink": "service-details-left-sidebar",
+    "iconClass": "flaticon-002-welding",
+    "serviceSubtitle":
+    "TCVN 6447, AS/NZS 3506",
+    "description": "<div class=\"jScrollPanel\"><strong>Tiêu chuẩn áp dụng</strong><br>TCVN 6447, AS/NZS 3506<br><strong>Tổng quan</strong><br>- Quy cách: Al/XLPE<br>- Ruột dẫn: Nhôm<br>- Số lõi: 3<br>- Kiểu ruột dẫn: Bện tròn ép chặt cấp 2.<br>- Mặt cắt danh định của ruột dẫn: từ 10 mm<sup>2</sup> đến 400 mm<sup>2</sup><br>- Điện áp danh định: 0.6/1 kV<br>- Nhiệt độ làm việc của ruột dẫn: 90 <sup>o</sup>C<br>- Đóng gói: Ru lô hoặc cuộn<br>- Ứng dụng: Dùng cho đường trục hạ thế, truyền tải điện năng cho hệ thống phân phối điện.<br>* Ghi chú:&nbsp;Ngoài các quy cách nêu trên, CADI-SUN có thể đáp ứng các yêu cầu khác của khách hàng.&nbsp;</div>",
+    "images": [
+      "cap-van-xoan.png",
+      "cap-van-xoan-1.png"
+    ],
+    "images_descriptions": [
+      "cap-van-xoan-des.jpeg"
+    ],
+    "images_prices": [
+      "cap-van-xoan-price.jpeg"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "CÁP NHÔM BỆN ÉP VẶN XOẮN - ABC 4X",
+    "category": "cap-van-xoan",
+    "pageLink": "service-details-left-sidebar",
+    "iconClass": "flaticon-002-welding",
+    "serviceSubtitle":
+    "TCVN 6447, AS/NZS 3506",
+    "description": "<div class=\"jScrollPanel\"><strong>Tiêu chuẩn áp dụng</strong><br>TCVN 6447, AS/NZS 3506<br><strong>Tổng quan</strong><br>- Quy cách: Al/XLPE<br>- Ruột dẫn: Nhôm<br>- Số lõi: 4<br>- Kiểu ruột dẫn: Bện tròn ép chặt cấp 2.<br>- Mặt cắt danh định của ruột dẫn: từ 10 mm<sup>2</sup> đến 400 mm<sup>2</sup><br>- Điện áp danh định: 0.6/1 kV<br>- Nhiệt độ làm việc của ruột dẫn: 90 <sup>o</sup>C<br>- Đóng gói: Ru lô hoặc cuộn<br>- Ứng dụng: Dùng cho đường trục hạ thế, truyền tải điện năng cho hệ thống phân phối điện.<br>* Ghi chú:&nbsp;Ngoài các quy cách nêu trên, CADI-SUN có thể đáp ứng các yêu cầu khác của khách hàng.&nbsp;</div>",
+    "images": [
+      "cap-van-xoan.png",
+      "cap-van-xoan-1.png"
+    ],
+    "images_descriptions": [
+      "cap-van-xoan-des.jpeg"
+    ],
+    "images_prices": [
+      "cap-van-xoan-price.jpeg"
+    ]
+  }
+]
