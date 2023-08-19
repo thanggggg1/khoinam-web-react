@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/khoinam-web-react/static/css/main.b9c0cdc5.css",
-    "main.js": "/khoinam-web-react/static/js/main.3fcd53a3.js",
+    "main.js": "/khoinam-web-react/static/js/main.526632c4.js",
     "static/js/196.ce43ecb5.chunk.js": "/khoinam-web-react/static/js/196.ce43ecb5.chunk.js",
     "static/js/758.095ad352.chunk.js": "/khoinam-web-react/static/js/758.095ad352.chunk.js",
     "static/js/500.b4142857.chunk.js": "/khoinam-web-react/static/js/500.b4142857.chunk.js",
@@ -11,8 +11,8 @@
     "static/js/222.ec2c632a.chunk.js": "/khoinam-web-react/static/js/222.ec2c632a.chunk.js",
     "static/js/0.e78f5bc4.chunk.js": "/khoinam-web-react/static/js/0.e78f5bc4.chunk.js",
     "static/js/481.7c1a399d.chunk.js": "/khoinam-web-react/static/js/481.7c1a399d.chunk.js",
-    "static/js/636.d87b32b1.chunk.js": "/khoinam-web-react/static/js/636.d87b32b1.chunk.js",
-    "static/js/141.24ed225c.chunk.js": "/khoinam-web-react/static/js/141.24ed225c.chunk.js",
+    "static/js/636.50063f5c.chunk.js": "/khoinam-web-react/static/js/636.50063f5c.chunk.js",
+    "static/js/141.9dba16e8.chunk.js": "/khoinam-web-react/static/js/141.9dba16e8.chunk.js",
     "static/js/343.0211bded.chunk.js": "/khoinam-web-react/static/js/343.0211bded.chunk.js",
     "static/js/281.2c12c87f.chunk.js": "/khoinam-web-react/static/js/281.2c12c87f.chunk.js",
     "static/js/737.32105084.chunk.js": "/khoinam-web-react/static/js/737.32105084.chunk.js",
@@ -84,7 +84,7 @@
     "static/media/Flaticon.woff": "/khoinam-web-react/static/media/Flaticon.3b6441086edd7f5f81cb.woff",
     "index.html": "/khoinam-web-react/index.html",
     "main.b9c0cdc5.css.map": "/khoinam-web-react/static/css/main.b9c0cdc5.css.map",
-    "main.3fcd53a3.js.map": "/khoinam-web-react/static/js/main.3fcd53a3.js.map",
+    "main.526632c4.js.map": "/khoinam-web-react/static/js/main.526632c4.js.map",
     "196.ce43ecb5.chunk.js.map": "/khoinam-web-react/static/js/196.ce43ecb5.chunk.js.map",
     "758.095ad352.chunk.js.map": "/khoinam-web-react/static/js/758.095ad352.chunk.js.map",
     "500.b4142857.chunk.js.map": "/khoinam-web-react/static/js/500.b4142857.chunk.js.map",
@@ -94,8 +94,8 @@
     "222.ec2c632a.chunk.js.map": "/khoinam-web-react/static/js/222.ec2c632a.chunk.js.map",
     "0.e78f5bc4.chunk.js.map": "/khoinam-web-react/static/js/0.e78f5bc4.chunk.js.map",
     "481.7c1a399d.chunk.js.map": "/khoinam-web-react/static/js/481.7c1a399d.chunk.js.map",
-    "636.d87b32b1.chunk.js.map": "/khoinam-web-react/static/js/636.d87b32b1.chunk.js.map",
-    "141.24ed225c.chunk.js.map": "/khoinam-web-react/static/js/141.24ed225c.chunk.js.map",
+    "636.50063f5c.chunk.js.map": "/khoinam-web-react/static/js/636.50063f5c.chunk.js.map",
+    "141.9dba16e8.chunk.js.map": "/khoinam-web-react/static/js/141.9dba16e8.chunk.js.map",
     "343.0211bded.chunk.js.map": "/khoinam-web-react/static/js/343.0211bded.chunk.js.map",
     "281.2c12c87f.chunk.js.map": "/khoinam-web-react/static/js/281.2c12c87f.chunk.js.map",
     "737.32105084.chunk.js.map": "/khoinam-web-react/static/js/737.32105084.chunk.js.map",
@@ -114,6 +114,6 @@
   },
   "entrypoints": [
     "static/css/main.b9c0cdc5.css",
-    "static/js/main.3fcd53a3.js"
+    "static/js/main.526632c4.js"
   ]
 }
